@@ -1,0 +1,14 @@
+C:\Users\tu7cldm19\Desktop\figure task\task\task\bin\Debug\netcoreapp3.1\task.exe
+C:\Users\tu7cldm19\Desktop\figure task\task\task\bin\Debug\netcoreapp3.1\task.deps.json
+C:\Users\tu7cldm19\Desktop\figure task\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.json
+C:\Users\tu7cldm19\Desktop\figure task\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.dev.json
+C:\Users\tu7cldm19\Desktop\figure task\task\task\bin\Debug\netcoreapp3.1\task.dll
+C:\Users\tu7cldm19\Desktop\figure task\task\task\bin\Debug\netcoreapp3.1\task.pdb
+C:\Users\tu7cldm19\Desktop\figure task\task\task\obj\Debug\netcoreapp3.1\task.csproj.AssemblyReference.cache
+C:\Users\tu7cldm19\Desktop\figure task\task\task\obj\Debug\netcoreapp3.1\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7cldm19\Desktop\figure task\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfoInputs.cache
+C:\Users\tu7cldm19\Desktop\figure task\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfo.cs
+C:\Users\tu7cldm19\Desktop\figure task\task\task\obj\Debug\netcoreapp3.1\task.csproj.CoreCompileInputs.cache
+C:\Users\tu7cldm19\Desktop\figure task\task\task\obj\Debug\netcoreapp3.1\task.dll
+C:\Users\tu7cldm19\Desktop\figure task\task\task\obj\Debug\netcoreapp3.1\task.pdb
+C:\Users\tu7cldm19\Desktop\figure task\task\task\obj\Debug\netcoreapp3.1\task.genruntimeconfig.cache
